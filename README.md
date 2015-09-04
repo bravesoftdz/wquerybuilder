@@ -31,9 +31,4 @@ A good alternative to create SQL strings using a browser, you can see a demo her
 
 ## Last updates
 
-* 11/11/2014 - Removed Underscore.js depency
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/renanborgez/wquerybuilder/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+* 11/11/2014 - Removed Underscore.js dependency
